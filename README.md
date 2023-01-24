@@ -28,7 +28,7 @@ Dari ketiga poin di atas, maka dapat disimpulkan bahwa jumlah seluruh kemungkina
 
 # Cara menggunakan program
 1. Buka Program di Visual Studio Code
-2. Jalankan program dengan klik simbol Run Code pad main.cpp
+2. Jalankan program dengan klik simbol Run Code pada main.cpp
 
 # Identitas pembuat
 - Nama : Satria Octavianus Nababan
